@@ -1,0 +1,16 @@
+public class CMSC203_ACTIVITY1_CORNEL {
+import java.util.jar.Attributes.Name;
+
+public class App {
+    public static void main(String[] args) {
+        String lastName = "Cornel";
+        String firstName = "Maria Jessa";
+        String fullName = "Maria Jessa Cornel";
+        String letter = "A";
+        String number = "1.25";
+        System.out.println("Hi, my name is " + "Maria Jessa" + " Cornel");
+        System.out.println("I am " + "20 " + "years old");
+        System.out.println("My GPA is " + " 1.30");
+        System.out.println("My blood type is" + " AB");
+    }
+}
