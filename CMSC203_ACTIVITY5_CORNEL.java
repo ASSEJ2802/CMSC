@@ -2,7 +2,7 @@ package CALCULATOR;
 
 import java.util.Scanner;
 
-public class CMSC203_ACTIVITY5_FLORITA {
+public class CMSC203_ACTIVITY5_CORNEL {
 
 	public static void main(String[] args){
 	
