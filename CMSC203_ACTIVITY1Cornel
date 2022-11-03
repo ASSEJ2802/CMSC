@@ -6,8 +6,8 @@ public class App {
         String lastName = "Cornel";
         String firstName = "Maria Jessa";
         String fullName = "Maria Jessa Cornel";
-        String letter = "A";
-        String number = "1.25";
+        String letter = "AB";
+        String number = "1.30";
         System.out.println("Hi, my name is " + "Maria Jessa" + " Cornel");
         System.out.println("I am " + "20 " + "years old");
         System.out.println("My GPA is " + " 1.30");
